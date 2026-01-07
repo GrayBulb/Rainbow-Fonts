@@ -1,5 +1,6 @@
 # Rainbow-Fonts
 Chrome exenstion that makes fonts rainbow
+
 To set custom speed, go to the folder of the chrome exenstion, open rainbowFonts.js in notepad. Find ```SPEED = 100``` and change it to whatever number.
 
 
