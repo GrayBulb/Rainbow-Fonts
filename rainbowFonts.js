@@ -6,6 +6,9 @@
     let interval = null;
     let active = true;
 
+    // This is the speed.
+    // Adjust it to 25 to 300 if needed.
+
     const SPEED = 100;
 
     // Start rainbow effect immediately
