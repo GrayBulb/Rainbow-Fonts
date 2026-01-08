@@ -9,7 +9,7 @@ Also it hooks only once.
 
 # Guide to Install
 1. Download or clone the extension folder to your computer.
-2. Open Chrome and go to [chrome://extensions/](chrome://extensions/).
+2. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
 3. Turn on **Developer mode** (top right toggle).
 4. Click **Load unpacked**.
 5. Select the folder where the extension is located.
